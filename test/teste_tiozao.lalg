@@ -1,0 +1,8 @@
+program lenda
+begin
+if(tiozao == aprovado){
+    tiozao := pagacerveja;
+if(tiozao == naopaga){
+    tobadotiozao := abib;
+}
+end
